@@ -1,6 +1,8 @@
 site_name: "Building an LLM from Scratch"
 site_description: "A hands-on tutorial for CS undergraduates to build a tiny Large Language Model from scratch"
 site_author: "LLM Tutorial Team"
+repo_url: https://github.com/cyyself/tiny-llm
+repo_name: cyyself/tiny-llm
 
 theme:
   name: material
