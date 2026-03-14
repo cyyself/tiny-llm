@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+
+# Checkpoints
+checkpoints/
+
+# MkDocs build output
+site/
+
+# OS files
+.DS_Store
+Thumbs.db

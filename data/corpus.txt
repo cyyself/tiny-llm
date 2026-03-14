@@ -1,0 +1,915 @@
+Q: How many legs does a rabbit have? A: A rabbit has four legs.
+Q: What color is the night? A: The night is dark.
+Q: What is the opposite of big? A: The opposite of big is small.
+Q: How many legs does a bird have? A: A bird has two legs.
+Q: Where does a horse live? A: A horse lives in a stable.
+Q: What day comes after Wednesday? A: The day after Wednesday is Thursday.
+Q: Where does a cow live? A: A cow lives in a farm.
+Q: Where does a dog live? A: A dog lives in a house.
+Q: What day comes after Thursday? A: The day after Thursday is Friday.
+Q: What day comes after Thursday? A: The day after Thursday is Friday.
+Q: Where does a duck live? A: A duck lives in a pond.
+Q: What is 1 plus 3? A: 1 plus 3 is 4.
+Q: What sound does a bird make? A: A bird makes a chirp sound.
+Q: Where does a duck live? A: A duck lives in a pond.
+Q: How many legs does a dog have? A: A dog has four legs.
+Q: Where does a cow live? A: A cow lives in a farm.
+Q: What sound does a bird make? A: A bird makes a chirp sound.
+Q: What is 3 plus 2? A: 3 plus 2 is 5.
+Q: Where does a horse live? A: A horse lives in a stable.
+Q: What sound does a rabbit make? A: A rabbit makes a squeak sound.
+Q: What day comes after Tuesday? A: The day after Tuesday is Wednesday.
+Q: What does a cow eat? A: A cow eats grass.
+Q: What is the opposite of light? A: The opposite of light is dark.
+Q: What color is the night? A: The night is dark.
+Q: Where does a dog live? A: A dog lives in a house.
+Q: What is 3 plus 2? A: 3 plus 2 is 5.
+Q: How many legs does a rabbit have? A: A rabbit has four legs.
+Q: What sound does a bird make? A: A bird makes a chirp sound.
+Q: What day comes after Tuesday? A: The day after Tuesday is Wednesday.
+Q: What is 1 plus 3? A: 1 plus 3 is 4.
+Q: What is the opposite of hot? A: The opposite of hot is cold.
+Q: What does a fish eat? A: A fish eats worms.
+Q: What is the opposite of big? A: The opposite of big is small.
+Q: Where does a cow live? A: A cow lives in a farm.
+Q: What color is the sun? A: The sun is yellow.
+Q: What day comes after Sunday? A: The day after Sunday is Monday.
+Q: What is 2 plus 1? A: 2 plus 1 is 3.
+Q: Where does a fish live? A: A fish lives in a water.
+Q: What color is the sky? A: The sky is blue.
+Q: What is the opposite of loud? A: The opposite of loud is quiet.
+Q: What sound does a bird make? A: A bird makes a chirp sound.
+Q: What sound does a cow make? A: A cow makes a moo sound.
+Q: What is the opposite of happy? A: The opposite of happy is sad.
+Q: What is 2 plus 1? A: 2 plus 1 is 3.
+Q: How many legs does a cow have? A: A cow has four legs.
+Q: What color is the grass? A: The grass is green.
+Q: How many legs does a horse have? A: A horse has four legs.
+Q: What does a cow eat? A: A cow eats grass.
+Q: What is the opposite of fast? A: The opposite of fast is slow.
+Q: How many legs does a duck have? A: A duck has two legs.
+Q: Where does a duck live? A: A duck lives in a pond.
+Q: What day comes after Monday? A: The day after Monday is Tuesday.
+Q: What day comes after Monday? A: The day after Monday is Tuesday.
+Q: What sound does a fish make? A: A fish makes a splash sound.
+Q: What sound does a cow make? A: A cow makes a moo sound.
+Q: What does a cow eat? A: A cow eats grass.
+Q: What is the opposite of big? A: The opposite of big is small.
+Q: What color is the sky? A: The sky is blue.
+Q: Where does a bird live? A: A bird lives in a nest.
+Q: What does a duck eat? A: A duck eats bread.
+Q: Where does a cat live? A: A cat lives in a house.
+Q: How many legs does a cat have? A: A cat has four legs.
+Q: Where does a horse live? A: A horse lives in a stable.
+Q: What sound does a cow make? A: A cow makes a moo sound.
+Q: What is the opposite of hard? A: The opposite of hard is soft.
+Q: What does a cat eat? A: A cat eats fish.
+Q: What is the opposite of loud? A: The opposite of loud is quiet.
+Q: How many legs does a duck have? A: A duck has two legs.
+Q: What is the opposite of hard? A: The opposite of hard is soft.
+Q: What sound does a fish make? A: A fish makes a splash sound.
+Q: What color is the grass? A: The grass is green.
+Q: What sound does a horse make? A: A horse makes a neigh sound.
+Q: Where does a duck live? A: A duck lives in a pond.
+Q: What is 1 plus 3? A: 1 plus 3 is 4.
+Q: What sound does a horse make? A: A horse makes a neigh sound.
+Q: Where does a rabbit live? A: A rabbit lives in a burrow.
+Q: What is the opposite of fast? A: The opposite of fast is slow.
+Q: What day comes after Wednesday? A: The day after Wednesday is Thursday.
+Q: What color is the night? A: The night is dark.
+Q: What does a fish eat? A: A fish eats worms.
+Q: How many legs does a dog have? A: A dog has four legs.
+Q: What does a cat eat? A: A cat eats fish.
+Q: What color is the snow? A: The snow is white.
+Q: Where does a fish live? A: A fish lives in a water.
+Q: How many legs does a fish have? A: A fish has zero legs.
+Q: What is 1 plus 2? A: 1 plus 2 is 3.
+Q: How many legs does a bird have? A: A bird has two legs.
+Q: Where does a cat live? A: A cat lives in a house.
+Q: Where does a fish live? A: A fish lives in a water.
+Q: What sound does a rabbit make? A: A rabbit makes a squeak sound.
+Q: What does a bird eat? A: A bird eats seeds.
+Q: What is 1 plus 2? A: 1 plus 2 is 3.
+Q: What sound does a horse make? A: A horse makes a neigh sound.
+Q: What is 2 plus 1? A: 2 plus 1 is 3.
+Q: What is the opposite of hot? A: The opposite of hot is cold.
+Q: What does a cat eat? A: A cat eats fish.
+Q: What does a cow eat? A: A cow eats grass.
+Q: What is 3 plus 3? A: 3 plus 3 is 6.
+Q: What is the opposite of light? A: The opposite of light is dark.
+Q: What sound does a cow make? A: A cow makes a moo sound.
+Q: What color is the grass? A: The grass is green.
+Q: How many legs does a rabbit have? A: A rabbit has four legs.
+Q: What is the opposite of hard? A: The opposite of hard is soft.
+Q: What is 3 plus 3? A: 3 plus 3 is 6.
+Q: What color is the grass? A: The grass is green.
+Q: How many legs does a fish have? A: A fish has zero legs.
+Q: What color is the grass? A: The grass is green.
+Q: What is the opposite of tall? A: The opposite of tall is short.
+Q: What does a duck eat? A: A duck eats bread.
+Q: What is 3 plus 2? A: 3 plus 2 is 5.
+Q: What sound does a cat make? A: A cat makes a meow sound.
+Q: What sound does a bird make? A: A bird makes a chirp sound.
+Q: What does a bird eat? A: A bird eats seeds.
+Q: How many legs does a cat have? A: A cat has four legs.
+Q: What day comes after Saturday? A: The day after Saturday is Sunday.
+Q: What color is the snow? A: The snow is white.
+Q: Where does a horse live? A: A horse lives in a stable.
+Q: How many legs does a fish have? A: A fish has zero legs.
+Q: What is the opposite of happy? A: The opposite of happy is sad.
+Q: How many legs does a bird have? A: A bird has two legs.
+Q: What color is the snow? A: The snow is white.
+Q: What is the opposite of tall? A: The opposite of tall is short.
+Q: Where does a cat live? A: A cat lives in a house.
+Q: What is the opposite of light? A: The opposite of light is dark.
+Q: What is 1 plus 1? A: 1 plus 1 is 2.
+Q: What is the opposite of hot? A: The opposite of hot is cold.
+Q: Where does a dog live? A: A dog lives in a house.
+Q: Where does a horse live? A: A horse lives in a stable.
+Q: How many legs does a fish have? A: A fish has zero legs.
+Q: What is the opposite of hard? A: The opposite of hard is soft.
+Q: What day comes after Wednesday? A: The day after Wednesday is Thursday.
+Q: What does a fish eat? A: A fish eats worms.
+Q: Where does a dog live? A: A dog lives in a house.
+Q: What color is the sky? A: The sky is blue.
+Q: What day comes after Thursday? A: The day after Thursday is Friday.
+Q: What sound does a dog make? A: A dog makes a bark sound.
+Q: What sound does a rabbit make? A: A rabbit makes a squeak sound.
+Q: What is the opposite of wet? A: The opposite of wet is dry.
+Q: What is 1 plus 2? A: 1 plus 2 is 3.
+Q: What sound does a duck make? A: A duck makes a quack sound.
+Q: Where does a horse live? A: A horse lives in a stable.
+Q: What is the opposite of light? A: The opposite of light is dark.
+Q: How many legs does a cow have? A: A cow has four legs.
+Q: What is 3 plus 3? A: 3 plus 3 is 6.
+Q: What is the opposite of hard? A: The opposite of hard is soft.
+Q: What is the opposite of old? A: The opposite of old is young.
+Q: What day comes after Tuesday? A: The day after Tuesday is Wednesday.
+Q: Where does a cat live? A: A cat lives in a house.
+Q: What day comes after Wednesday? A: The day after Wednesday is Thursday.
+Q: What is the opposite of big? A: The opposite of big is small.
+Q: What color is the snow? A: The snow is white.
+Q: What sound does a horse make? A: A horse makes a neigh sound.
+Q: What is 2 plus 1? A: 2 plus 1 is 3.
+Q: What day comes after Monday? A: The day after Monday is Tuesday.
+Q: What is the opposite of happy? A: The opposite of happy is sad.
+Q: What is the opposite of wet? A: The opposite of wet is dry.
+Q: What day comes after Saturday? A: The day after Saturday is Sunday.
+Q: What sound does a cow make? A: A cow makes a moo sound.
+Q: Where does a rabbit live? A: A rabbit lives in a burrow.
+Q: What does a bird eat? A: A bird eats seeds.
+Q: How many legs does a cow have? A: A cow has four legs.
+Q: What sound does a cat make? A: A cat makes a meow sound.
+Q: How many legs does a rabbit have? A: A rabbit has four legs.
+Q: How many legs does a rabbit have? A: A rabbit has four legs.
+Q: What sound does a bird make? A: A bird makes a chirp sound.
+Q: What day comes after Thursday? A: The day after Thursday is Friday.
+Q: What does a dog eat? A: A dog eats meat.
+Q: What is the opposite of fast? A: The opposite of fast is slow.
+Q: What does a bird eat? A: A bird eats seeds.
+Q: What does a duck eat? A: A duck eats bread.
+Q: How many legs does a cow have? A: A cow has four legs.
+Q: How many legs does a horse have? A: A horse has four legs.
+Q: What sound does a duck make? A: A duck makes a quack sound.
+Q: What is 3 plus 2? A: 3 plus 2 is 5.
+Q: How many legs does a fish have? A: A fish has zero legs.
+Q: What sound does a cow make? A: A cow makes a moo sound.
+Q: How many legs does a duck have? A: A duck has two legs.
+Q: What is 3 plus 3? A: 3 plus 3 is 6.
+Q: What is the opposite of hard? A: The opposite of hard is soft.
+Q: Where does a cat live? A: A cat lives in a house.
+Q: What is the opposite of light? A: The opposite of light is dark.
+Q: What is 3 plus 2? A: 3 plus 2 is 5.
+Q: What is the opposite of hard? A: The opposite of hard is soft.
+Q: What is 2 plus 2? A: 2 plus 2 is 4.
+Q: What sound does a cow make? A: A cow makes a moo sound.
+Q: What sound does a dog make? A: A dog makes a bark sound.
+Q: What is the opposite of loud? A: The opposite of loud is quiet.
+Q: What day comes after Friday? A: The day after Friday is Saturday.
+Q: What is the opposite of fast? A: The opposite of fast is slow.
+Q: How many legs does a dog have? A: A dog has four legs.
+Q: Where does a fish live? A: A fish lives in a water.
+Q: What is 3 plus 1? A: 3 plus 1 is 4.
+Q: How many legs does a horse have? A: A horse has four legs.
+Q: What color is the night? A: The night is dark.
+Q: What is the opposite of happy? A: The opposite of happy is sad.
+Q: What is the opposite of wet? A: The opposite of wet is dry.
+Q: How many legs does a duck have? A: A duck has two legs.
+Q: Where does a cow live? A: A cow lives in a farm.
+Q: What sound does a fish make? A: A fish makes a splash sound.
+Q: What does a duck eat? A: A duck eats bread.
+Q: How many legs does a horse have? A: A horse has four legs.
+Q: Where does a fish live? A: A fish lives in a water.
+Q: What sound does a horse make? A: A horse makes a neigh sound.
+Q: Where does a cow live? A: A cow lives in a farm.
+Q: What is 1 plus 3? A: 1 plus 3 is 4.
+Q: Where does a cat live? A: A cat lives in a house.
+Q: What is the opposite of hard? A: The opposite of hard is soft.
+Q: What is 1 plus 1? A: 1 plus 1 is 2.
+Q: What does a cat eat? A: A cat eats fish.
+Q: What day comes after Sunday? A: The day after Sunday is Monday.
+Q: What is the opposite of big? A: The opposite of big is small.
+Q: What is the opposite of hot? A: The opposite of hot is cold.
+Q: What day comes after Tuesday? A: The day after Tuesday is Wednesday.
+Q: How many legs does a rabbit have? A: A rabbit has four legs.
+Q: What is 3 plus 2? A: 3 plus 2 is 5.
+Q: What is the opposite of wet? A: The opposite of wet is dry.
+Q: How many legs does a fish have? A: A fish has zero legs.
+Q: What sound does a horse make? A: A horse makes a neigh sound.
+Q: How many legs does a rabbit have? A: A rabbit has four legs.
+Q: What day comes after Thursday? A: The day after Thursday is Friday.
+Q: Where does a bird live? A: A bird lives in a nest.
+Q: What is the opposite of light? A: The opposite of light is dark.
+Q: What sound does a duck make? A: A duck makes a quack sound.
+Q: Where does a cat live? A: A cat lives in a house.
+Q: What color is the night? A: The night is dark.
+Q: How many legs does a dog have? A: A dog has four legs.
+Q: What sound does a bird make? A: A bird makes a chirp sound.
+Q: What is 3 plus 1? A: 3 plus 1 is 4.
+Q: Where does a bird live? A: A bird lives in a nest.
+Q: Where does a dog live? A: A dog lives in a house.
+Q: What day comes after Friday? A: The day after Friday is Saturday.
+Q: What is 2 plus 2? A: 2 plus 2 is 4.
+Q: How many legs does a dog have? A: A dog has four legs.
+Q: How many legs does a bird have? A: A bird has two legs.
+Q: What does a fish eat? A: A fish eats worms.
+Q: What is the opposite of old? A: The opposite of old is young.
+Q: How many legs does a cat have? A: A cat has four legs.
+Q: What is the opposite of wet? A: The opposite of wet is dry.
+Q: Where does a duck live? A: A duck lives in a pond.
+Q: How many legs does a horse have? A: A horse has four legs.
+Q: What sound does a cow make? A: A cow makes a moo sound.
+Q: What does a bird eat? A: A bird eats seeds.
+Q: How many legs does a bird have? A: A bird has two legs.
+Q: How many legs does a dog have? A: A dog has four legs.
+Q: What is the opposite of light? A: The opposite of light is dark.
+Q: Where does a rabbit live? A: A rabbit lives in a burrow.
+Q: What sound does a rabbit make? A: A rabbit makes a squeak sound.
+Q: What color is the sky? A: The sky is blue.
+Q: What is 3 plus 1? A: 3 plus 1 is 4.
+Q: What does a dog eat? A: A dog eats meat.
+Q: What day comes after Saturday? A: The day after Saturday is Sunday.
+Q: What color is the sky? A: The sky is blue.
+Q: What is the opposite of old? A: The opposite of old is young.
+Q: What day comes after Thursday? A: The day after Thursday is Friday.
+Q: What is 3 plus 2? A: 3 plus 2 is 5.
+Q: What day comes after Tuesday? A: The day after Tuesday is Wednesday.
+Q: Where does a fish live? A: A fish lives in a water.
+Q: What is 2 plus 1? A: 2 plus 1 is 3.
+Q: What sound does a bird make? A: A bird makes a chirp sound.
+Q: What sound does a rabbit make? A: A rabbit makes a squeak sound.
+Q: What color is the grass? A: The grass is green.
+Q: How many legs does a cow have? A: A cow has four legs.
+Q: What is 3 plus 3? A: 3 plus 3 is 6.
+Q: What is 2 plus 2? A: 2 plus 2 is 4.
+Q: What sound does a fish make? A: A fish makes a splash sound.
+Q: What does a duck eat? A: A duck eats bread.
+Q: What day comes after Sunday? A: The day after Sunday is Monday.
+Q: How many legs does a rabbit have? A: A rabbit has four legs.
+Q: What does a duck eat? A: A duck eats bread.
+Q: How many legs does a cow have? A: A cow has four legs.
+Q: What sound does a duck make? A: A duck makes a quack sound.
+Q: What is 3 plus 3? A: 3 plus 3 is 6.
+Q: What day comes after Friday? A: The day after Friday is Saturday.
+Q: What is the opposite of loud? A: The opposite of loud is quiet.
+Q: What does a cow eat? A: A cow eats grass.
+Q: What is 2 plus 2? A: 2 plus 2 is 4.
+Q: What sound does a horse make? A: A horse makes a neigh sound.
+Q: What is the opposite of light? A: The opposite of light is dark.
+Q: What day comes after Tuesday? A: The day after Tuesday is Wednesday.
+Q: What sound does a dog make? A: A dog makes a bark sound.
+Q: What does a bird eat? A: A bird eats seeds.
+Q: Where does a dog live? A: A dog lives in a house.
+Q: What is the opposite of fast? A: The opposite of fast is slow.
+Q: What does a fish eat? A: A fish eats worms.
+Q: What is the opposite of tall? A: The opposite of tall is short.
+Q: What is the opposite of tall? A: The opposite of tall is short.
+Q: Where does a duck live? A: A duck lives in a pond.
+Q: What does a fish eat? A: A fish eats worms.
+Q: How many legs does a cat have? A: A cat has four legs.
+Q: What day comes after Saturday? A: The day after Saturday is Sunday.
+Q: What is 3 plus 1? A: 3 plus 1 is 4.
+Q: What sound does a duck make? A: A duck makes a quack sound.
+Q: What is the opposite of happy? A: The opposite of happy is sad.
+Q: Where does a dog live? A: A dog lives in a house.
+Q: What day comes after Friday? A: The day after Friday is Saturday.
+Q: What is 1 plus 1? A: 1 plus 1 is 2.
+Q: What does a duck eat? A: A duck eats bread.
+Q: Where does a fish live? A: A fish lives in a water.
+Q: What is the opposite of hard? A: The opposite of hard is soft.
+Q: What is the opposite of tall? A: The opposite of tall is short.
+Q: How many legs does a duck have? A: A duck has two legs.
+Q: What day comes after Tuesday? A: The day after Tuesday is Wednesday.
+Q: What color is the grass? A: The grass is green.
+Q: What is the opposite of old? A: The opposite of old is young.
+Q: What is the opposite of tall? A: The opposite of tall is short.
+Q: What is 2 plus 2? A: 2 plus 2 is 4.
+Q: What is the opposite of old? A: The opposite of old is young.
+Q: What does a cat eat? A: A cat eats fish.
+Q: What is the opposite of hot? A: The opposite of hot is cold.
+Q: What sound does a bird make? A: A bird makes a chirp sound.
+Q: What does a duck eat? A: A duck eats bread.
+Q: What day comes after Monday? A: The day after Monday is Tuesday.
+Q: What is 3 plus 3? A: 3 plus 3 is 6.
+Q: Where does a rabbit live? A: A rabbit lives in a burrow.
+Q: What is 2 plus 2? A: 2 plus 2 is 4.
+Q: What day comes after Wednesday? A: The day after Wednesday is Thursday.
+Q: Where does a dog live? A: A dog lives in a house.
+Q: What is 3 plus 2? A: 3 plus 2 is 5.
+Q: Where does a cat live? A: A cat lives in a house.
+Q: Where does a duck live? A: A duck lives in a pond.
+Q: How many legs does a fish have? A: A fish has zero legs.
+Q: Where does a dog live? A: A dog lives in a house.
+Q: What day comes after Saturday? A: The day after Saturday is Sunday.
+Q: What is the opposite of tall? A: The opposite of tall is short.
+Q: What day comes after Saturday? A: The day after Saturday is Sunday.
+Q: What is the opposite of wet? A: The opposite of wet is dry.
+Q: What is 2 plus 3? A: 2 plus 3 is 5.
+Q: What is 3 plus 2? A: 3 plus 2 is 5.
+Q: What is 1 plus 3? A: 1 plus 3 is 4.
+Q: Where does a cow live? A: A cow lives in a farm.
+Q: Where does a cow live? A: A cow lives in a farm.
+Q: Where does a duck live? A: A duck lives in a pond.
+Q: What is 1 plus 2? A: 1 plus 2 is 3.
+Q: How many legs does a horse have? A: A horse has four legs.
+Q: What sound does a dog make? A: A dog makes a bark sound.
+Q: What color is the sun? A: The sun is yellow.
+Q: What is 2 plus 1? A: 2 plus 1 is 3.
+Q: What is the opposite of big? A: The opposite of big is small.
+Q: What is 1 plus 2? A: 1 plus 2 is 3.
+Q: What is 1 plus 1? A: 1 plus 1 is 2.
+Q: What is 1 plus 1? A: 1 plus 1 is 2.
+Q: What color is the sky? A: The sky is blue.
+Q: What is 3 plus 2? A: 3 plus 2 is 5.
+Q: What is 1 plus 3? A: 1 plus 3 is 4.
+Q: What does a cow eat? A: A cow eats grass.
+Q: What is the opposite of happy? A: The opposite of happy is sad.
+Q: What is the opposite of hot? A: The opposite of hot is cold.
+Q: What color is the snow? A: The snow is white.
+Q: What day comes after Saturday? A: The day after Saturday is Sunday.
+Q: What day comes after Tuesday? A: The day after Tuesday is Wednesday.
+Q: What sound does a horse make? A: A horse makes a neigh sound.
+Q: What color is the sun? A: The sun is yellow.
+Q: What is 1 plus 2? A: 1 plus 2 is 3.
+Q: What does a bird eat? A: A bird eats seeds.
+Q: What is 2 plus 3? A: 2 plus 3 is 5.
+Q: How many legs does a dog have? A: A dog has four legs.
+Q: What is 2 plus 2? A: 2 plus 2 is 4.
+Q: How many legs does a cat have? A: A cat has four legs.
+Q: Where does a bird live? A: A bird lives in a nest.
+Q: Where does a bird live? A: A bird lives in a nest.
+Q: How many legs does a dog have? A: A dog has four legs.
+Q: What is the opposite of tall? A: The opposite of tall is short.
+Q: Where does a rabbit live? A: A rabbit lives in a burrow.
+Q: What is the opposite of hot? A: The opposite of hot is cold.
+Q: Where does a duck live? A: A duck lives in a pond.
+Q: Where does a cow live? A: A cow lives in a farm.
+Q: How many legs does a cow have? A: A cow has four legs.
+Q: What sound does a duck make? A: A duck makes a quack sound.
+Q: What is 2 plus 3? A: 2 plus 3 is 5.
+Q: Where does a fish live? A: A fish lives in a water.
+Q: What color is the grass? A: The grass is green.
+Q: Where does a cow live? A: A cow lives in a farm.
+Q: What does a cat eat? A: A cat eats fish.
+Q: What color is the night? A: The night is dark.
+Q: What day comes after Monday? A: The day after Monday is Tuesday.
+Q: What sound does a cow make? A: A cow makes a moo sound.
+Q: What is 3 plus 1? A: 3 plus 1 is 4.
+Q: What day comes after Monday? A: The day after Monday is Tuesday.
+Q: What is the opposite of old? A: The opposite of old is young.
+Q: What does a dog eat? A: A dog eats meat.
+Q: What does a cat eat? A: A cat eats fish.
+Q: How many legs does a bird have? A: A bird has two legs.
+Q: What day comes after Thursday? A: The day after Thursday is Friday.
+Q: What color is the grass? A: The grass is green.
+Q: What color is the night? A: The night is dark.
+Q: What does a cat eat? A: A cat eats fish.
+Q: What day comes after Saturday? A: The day after Saturday is Sunday.
+Q: What color is the grass? A: The grass is green.
+Q: What does a duck eat? A: A duck eats bread.
+Q: What is 2 plus 2? A: 2 plus 2 is 4.
+Q: Where does a rabbit live? A: A rabbit lives in a burrow.
+Q: What is the opposite of happy? A: The opposite of happy is sad.
+Q: What does a duck eat? A: A duck eats bread.
+Q: What sound does a bird make? A: A bird makes a chirp sound.
+Q: What day comes after Tuesday? A: The day after Tuesday is Wednesday.
+Q: What is the opposite of hot? A: The opposite of hot is cold.
+Q: What does a fish eat? A: A fish eats worms.
+Q: Where does a horse live? A: A horse lives in a stable.
+Q: How many legs does a cow have? A: A cow has four legs.
+Q: How many legs does a dog have? A: A dog has four legs.
+Q: What day comes after Sunday? A: The day after Sunday is Monday.
+Q: What day comes after Thursday? A: The day after Thursday is Friday.
+Q: What day comes after Tuesday? A: The day after Tuesday is Wednesday.
+Q: What is the opposite of tall? A: The opposite of tall is short.
+Q: What is 1 plus 3? A: 1 plus 3 is 4.
+Q: What is the opposite of light? A: The opposite of light is dark.
+Q: How many legs does a cow have? A: A cow has four legs.
+Q: What is 2 plus 3? A: 2 plus 3 is 5.
+Q: What is the opposite of loud? A: The opposite of loud is quiet.
+Q: What is the opposite of fast? A: The opposite of fast is slow.
+Q: Where does a cow live? A: A cow lives in a farm.
+Q: What sound does a rabbit make? A: A rabbit makes a squeak sound.
+Q: What is 1 plus 2? A: 1 plus 2 is 3.
+Q: What does a fish eat? A: A fish eats worms.
+Q: What sound does a horse make? A: A horse makes a neigh sound.
+Q: What does a cat eat? A: A cat eats fish.
+Q: How many legs does a horse have? A: A horse has four legs.
+Q: What is the opposite of loud? A: The opposite of loud is quiet.
+Q: What sound does a cow make? A: A cow makes a moo sound.
+Q: Where does a duck live? A: A duck lives in a pond.
+Q: What sound does a bird make? A: A bird makes a chirp sound.
+Q: What is the opposite of hard? A: The opposite of hard is soft.
+Q: Where does a rabbit live? A: A rabbit lives in a burrow.
+Q: What day comes after Monday? A: The day after Monday is Tuesday.
+Q: What does a fish eat? A: A fish eats worms.
+Q: What is the opposite of old? A: The opposite of old is young.
+Q: How many legs does a duck have? A: A duck has two legs.
+Q: What day comes after Wednesday? A: The day after Wednesday is Thursday.
+Q: What color is the sun? A: The sun is yellow.
+Q: What day comes after Friday? A: The day after Friday is Saturday.
+Q: What day comes after Sunday? A: The day after Sunday is Monday.
+Q: What is the opposite of happy? A: The opposite of happy is sad.
+Q: What is the opposite of loud? A: The opposite of loud is quiet.
+Q: What color is the grass? A: The grass is green.
+Q: What is the opposite of hot? A: The opposite of hot is cold.
+Q: What is the opposite of old? A: The opposite of old is young.
+Q: How many legs does a cat have? A: A cat has four legs.
+Q: What is the opposite of big? A: The opposite of big is small.
+Q: How many legs does a dog have? A: A dog has four legs.
+Q: What is the opposite of big? A: The opposite of big is small.
+Q: What sound does a rabbit make? A: A rabbit makes a squeak sound.
+Q: What sound does a fish make? A: A fish makes a splash sound.
+Q: What is 1 plus 1? A: 1 plus 1 is 2.
+Q: What sound does a fish make? A: A fish makes a splash sound.
+Q: Where does a rabbit live? A: A rabbit lives in a burrow.
+Q: What is the opposite of tall? A: The opposite of tall is short.
+Q: What day comes after Wednesday? A: The day after Wednesday is Thursday.
+Q: What is 1 plus 2? A: 1 plus 2 is 3.
+Q: What does a fish eat? A: A fish eats worms.
+Q: What is the opposite of fast? A: The opposite of fast is slow.
+Q: What is 2 plus 1? A: 2 plus 1 is 3.
+Q: What does a bird eat? A: A bird eats seeds.
+Q: What day comes after Saturday? A: The day after Saturday is Sunday.
+Q: What day comes after Wednesday? A: The day after Wednesday is Thursday.
+Q: What is the opposite of wet? A: The opposite of wet is dry.
+Q: What sound does a rabbit make? A: A rabbit makes a squeak sound.
+Q: What color is the night? A: The night is dark.
+Q: What is 2 plus 1? A: 2 plus 1 is 3.
+Q: Where does a bird live? A: A bird lives in a nest.
+Q: What color is the sky? A: The sky is blue.
+Q: What sound does a fish make? A: A fish makes a splash sound.
+Q: How many legs does a rabbit have? A: A rabbit has four legs.
+Q: What sound does a horse make? A: A horse makes a neigh sound.
+Q: Where does a rabbit live? A: A rabbit lives in a burrow.
+Q: What is 3 plus 2? A: 3 plus 2 is 5.
+Q: What is 1 plus 2? A: 1 plus 2 is 3.
+Q: What does a duck eat? A: A duck eats bread.
+Q: Where does a fish live? A: A fish lives in a water.
+Q: What is the opposite of loud? A: The opposite of loud is quiet.
+Q: What does a cow eat? A: A cow eats grass.
+Q: How many legs does a cow have? A: A cow has four legs.
+Q: What sound does a fish make? A: A fish makes a splash sound.
+Q: What day comes after Friday? A: The day after Friday is Saturday.
+Q: What sound does a duck make? A: A duck makes a quack sound.
+Q: What color is the night? A: The night is dark.
+Q: What is 1 plus 1? A: 1 plus 1 is 2.
+Q: What sound does a rabbit make? A: A rabbit makes a squeak sound.
+Q: What is the opposite of wet? A: The opposite of wet is dry.
+Q: What color is the night? A: The night is dark.
+Q: How many legs does a rabbit have? A: A rabbit has four legs.
+Q: What is the opposite of loud? A: The opposite of loud is quiet.
+Q: What is 1 plus 3? A: 1 plus 3 is 4.
+Q: What is 2 plus 2? A: 2 plus 2 is 4.
+Q: What sound does a cat make? A: A cat makes a meow sound.
+Q: How many legs does a cat have? A: A cat has four legs.
+Q: What sound does a duck make? A: A duck makes a quack sound.
+Q: How many legs does a fish have? A: A fish has zero legs.
+Q: What day comes after Sunday? A: The day after Sunday is Monday.
+Q: What is 3 plus 3? A: 3 plus 3 is 6.
+Q: What color is the snow? A: The snow is white.
+Q: Where does a cat live? A: A cat lives in a house.
+Q: What day comes after Monday? A: The day after Monday is Tuesday.
+Q: What sound does a fish make? A: A fish makes a splash sound.
+Q: What is 2 plus 3? A: 2 plus 3 is 5.
+Q: Where does a fish live? A: A fish lives in a water.
+Q: Where does a dog live? A: A dog lives in a house.
+Q: What day comes after Thursday? A: The day after Thursday is Friday.
+Q: What is the opposite of tall? A: The opposite of tall is short.
+Q: What does a dog eat? A: A dog eats meat.
+Q: What sound does a cat make? A: A cat makes a meow sound.
+Q: What does a cow eat? A: A cow eats grass.
+Q: What day comes after Monday? A: The day after Monday is Tuesday.
+Q: Where does a fish live? A: A fish lives in a water.
+Q: What does a bird eat? A: A bird eats seeds.
+Q: What is 3 plus 1? A: 3 plus 1 is 4.
+Q: What sound does a cat make? A: A cat makes a meow sound.
+Q: What is the opposite of light? A: The opposite of light is dark.
+Q: What day comes after Thursday? A: The day after Thursday is Friday.
+Q: Where does a dog live? A: A dog lives in a house.
+Q: What sound does a dog make? A: A dog makes a bark sound.
+Q: What is 1 plus 2? A: 1 plus 2 is 3.
+Q: What does a bird eat? A: A bird eats seeds.
+Q: How many legs does a horse have? A: A horse has four legs.
+Q: What is 3 plus 2? A: 3 plus 2 is 5.
+Q: What sound does a horse make? A: A horse makes a neigh sound.
+Q: Where does a bird live? A: A bird lives in a nest.
+Q: What day comes after Tuesday? A: The day after Tuesday is Wednesday.
+Q: What does a cat eat? A: A cat eats fish.
+Q: What is 2 plus 1? A: 2 plus 1 is 3.
+Q: What day comes after Friday? A: The day after Friday is Saturday.
+Q: What is 3 plus 3? A: 3 plus 3 is 6.
+Q: Where does a bird live? A: A bird lives in a nest.
+Q: What is the opposite of big? A: The opposite of big is small.
+Q: What does a cow eat? A: A cow eats grass.
+Q: What sound does a duck make? A: A duck makes a quack sound.
+Q: What day comes after Friday? A: The day after Friday is Saturday.
+Q: What is 1 plus 1? A: 1 plus 1 is 2.
+Q: How many legs does a horse have? A: A horse has four legs.
+Q: What is 2 plus 2? A: 2 plus 2 is 4.
+Q: What color is the sun? A: The sun is yellow.
+Q: What is 1 plus 3? A: 1 plus 3 is 4.
+Q: What color is the night? A: The night is dark.
+Q: What sound does a cow make? A: A cow makes a moo sound.
+Q: What is 3 plus 1? A: 3 plus 1 is 4.
+Q: What is the opposite of old? A: The opposite of old is young.
+Q: How many legs does a dog have? A: A dog has four legs.
+Q: Where does a fish live? A: A fish lives in a water.
+Q: What is 2 plus 1? A: 2 plus 1 is 3.
+Q: How many legs does a cat have? A: A cat has four legs.
+Q: What sound does a bird make? A: A bird makes a chirp sound.
+Q: What sound does a dog make? A: A dog makes a bark sound.
+Q: What sound does a fish make? A: A fish makes a splash sound.
+Q: What color is the night? A: The night is dark.
+Q: What is 2 plus 3? A: 2 plus 3 is 5.
+Q: What sound does a fish make? A: A fish makes a splash sound.
+Q: What sound does a duck make? A: A duck makes a quack sound.
+Q: Where does a rabbit live? A: A rabbit lives in a burrow.
+Q: What is the opposite of big? A: The opposite of big is small.
+Q: What is the opposite of happy? A: The opposite of happy is sad.
+Q: What does a bird eat? A: A bird eats seeds.
+Q: What color is the sky? A: The sky is blue.
+Q: What is the opposite of loud? A: The opposite of loud is quiet.
+Q: How many legs does a cat have? A: A cat has four legs.
+Q: What does a fish eat? A: A fish eats worms.
+Q: What day comes after Sunday? A: The day after Sunday is Monday.
+Q: What is the opposite of big? A: The opposite of big is small.
+Q: How many legs does a bird have? A: A bird has two legs.
+Q: How many legs does a fish have? A: A fish has zero legs.
+Q: Where does a cow live? A: A cow lives in a farm.
+Q: What day comes after Sunday? A: The day after Sunday is Monday.
+Q: What does a cat eat? A: A cat eats fish.
+Q: What sound does a fish make? A: A fish makes a splash sound.
+Q: How many legs does a bird have? A: A bird has two legs.
+Q: What is the opposite of light? A: The opposite of light is dark.
+Q: What sound does a cat make? A: A cat makes a meow sound.
+Q: What day comes after Saturday? A: The day after Saturday is Sunday.
+Q: Where does a horse live? A: A horse lives in a stable.
+Q: Where does a duck live? A: A duck lives in a pond.
+Q: What sound does a dog make? A: A dog makes a bark sound.
+Q: What is 2 plus 3? A: 2 plus 3 is 5.
+Q: What color is the sky? A: The sky is blue.
+Q: What does a duck eat? A: A duck eats bread.
+Q: What day comes after Saturday? A: The day after Saturday is Sunday.
+Q: What is 3 plus 1? A: 3 plus 1 is 4.
+Q: What sound does a cat make? A: A cat makes a meow sound.
+Q: What is 2 plus 3? A: 2 plus 3 is 5.
+Q: What is the opposite of old? A: The opposite of old is young.
+Q: What is the opposite of tall? A: The opposite of tall is short.
+Q: What color is the grass? A: The grass is green.
+Q: Where does a dog live? A: A dog lives in a house.
+Q: How many legs does a duck have? A: A duck has two legs.
+Q: What color is the sun? A: The sun is yellow.
+Q: What day comes after Friday? A: The day after Friday is Saturday.
+Q: What sound does a dog make? A: A dog makes a bark sound.
+Q: Where does a rabbit live? A: A rabbit lives in a burrow.
+Q: Where does a horse live? A: A horse lives in a stable.
+Q: What sound does a cat make? A: A cat makes a meow sound.
+Q: What does a dog eat? A: A dog eats meat.
+Q: What is the opposite of hard? A: The opposite of hard is soft.
+Q: What sound does a cow make? A: A cow makes a moo sound.
+Q: What sound does a rabbit make? A: A rabbit makes a squeak sound.
+Q: What does a dog eat? A: A dog eats meat.
+Q: What day comes after Wednesday? A: The day after Wednesday is Thursday.
+Q: What day comes after Friday? A: The day after Friday is Saturday.
+Q: What is the opposite of wet? A: The opposite of wet is dry.
+Q: How many legs does a duck have? A: A duck has two legs.
+Q: What day comes after Tuesday? A: The day after Tuesday is Wednesday.
+Q: What does a bird eat? A: A bird eats seeds.
+Q: What sound does a duck make? A: A duck makes a quack sound.
+Q: Where does a rabbit live? A: A rabbit lives in a burrow.
+Q: What is 3 plus 1? A: 3 plus 1 is 4.
+Q: What day comes after Thursday? A: The day after Thursday is Friday.
+Q: Where does a duck live? A: A duck lives in a pond.
+Q: What color is the snow? A: The snow is white.
+Q: What does a cat eat? A: A cat eats fish.
+Q: How many legs does a cow have? A: A cow has four legs.
+Q: What is 2 plus 2? A: 2 plus 2 is 4.
+Q: What is the opposite of light? A: The opposite of light is dark.
+Q: Where does a cat live? A: A cat lives in a house.
+Q: What day comes after Monday? A: The day after Monday is Tuesday.
+Q: What sound does a dog make? A: A dog makes a bark sound.
+Q: What is 2 plus 3? A: 2 plus 3 is 5.
+Q: What day comes after Thursday? A: The day after Thursday is Friday.
+Q: What is 3 plus 1? A: 3 plus 1 is 4.
+Q: What is the opposite of wet? A: The opposite of wet is dry.
+Q: What is 1 plus 1? A: 1 plus 1 is 2.
+Q: Where does a fish live? A: A fish lives in a water.
+Q: What sound does a dog make? A: A dog makes a bark sound.
+Q: What is the opposite of hot? A: The opposite of hot is cold.
+Q: How many legs does a rabbit have? A: A rabbit has four legs.
+Q: What does a fish eat? A: A fish eats worms.
+Q: Where does a horse live? A: A horse lives in a stable.
+Q: What sound does a cow make? A: A cow makes a moo sound.
+Q: Where does a bird live? A: A bird lives in a nest.
+Q: What does a cow eat? A: A cow eats grass.
+Q: What is the opposite of fast? A: The opposite of fast is slow.
+Q: What sound does a dog make? A: A dog makes a bark sound.
+Q: What is 3 plus 2? A: 3 plus 2 is 5.
+Q: How many legs does a duck have? A: A duck has two legs.
+Q: How many legs does a rabbit have? A: A rabbit has four legs.
+Q: Where does a bird live? A: A bird lives in a nest.
+Q: What day comes after Wednesday? A: The day after Wednesday is Thursday.
+Q: What is the opposite of hot? A: The opposite of hot is cold.
+Q: What does a bird eat? A: A bird eats seeds.
+Q: What is 3 plus 3? A: 3 plus 3 is 6.
+Q: What is 1 plus 1? A: 1 plus 1 is 2.
+Q: What is 2 plus 2? A: 2 plus 2 is 4.
+Q: How many legs does a cat have? A: A cat has four legs.
+Q: What day comes after Friday? A: The day after Friday is Saturday.
+Q: What is the opposite of happy? A: The opposite of happy is sad.
+Q: What is the opposite of hot? A: The opposite of hot is cold.
+Q: What is the opposite of tall? A: The opposite of tall is short.
+Q: What sound does a duck make? A: A duck makes a quack sound.
+Q: What is the opposite of old? A: The opposite of old is young.
+Q: What does a fish eat? A: A fish eats worms.
+Q: How many legs does a bird have? A: A bird has two legs.
+Q: What day comes after Monday? A: The day after Monday is Tuesday.
+Q: Where does a bird live? A: A bird lives in a nest.
+Q: What is 3 plus 3? A: 3 plus 3 is 6.
+Q: What day comes after Sunday? A: The day after Sunday is Monday.
+Q: What sound does a dog make? A: A dog makes a bark sound.
+Q: What is the opposite of old? A: The opposite of old is young.
+Q: What day comes after Sunday? A: The day after Sunday is Monday.
+Q: What day comes after Monday? A: The day after Monday is Tuesday.
+Q: How many legs does a fish have? A: A fish has zero legs.
+Q: What does a cow eat? A: A cow eats grass.
+Q: What day comes after Tuesday? A: The day after Tuesday is Wednesday.
+Q: What color is the sun? A: The sun is yellow.
+Q: What day comes after Sunday? A: The day after Sunday is Monday.
+Q: What is the opposite of loud? A: The opposite of loud is quiet.
+Q: What day comes after Thursday? A: The day after Thursday is Friday.
+Q: What is the opposite of hard? A: The opposite of hard is soft.
+Q: What color is the snow? A: The snow is white.
+Q: How many legs does a dog have? A: A dog has four legs.
+Q: What sound does a bird make? A: A bird makes a chirp sound.
+Q: What does a dog eat? A: A dog eats meat.
+Q: What is the opposite of loud? A: The opposite of loud is quiet.
+Q: What day comes after Tuesday? A: The day after Tuesday is Wednesday.
+Q: Where does a bird live? A: A bird lives in a nest.
+Q: Where does a dog live? A: A dog lives in a house.
+Q: Where does a rabbit live? A: A rabbit lives in a burrow.
+Q: Where does a cat live? A: A cat lives in a house.
+Q: What is the opposite of big? A: The opposite of big is small.
+Q: What does a cow eat? A: A cow eats grass.
+Q: What is the opposite of fast? A: The opposite of fast is slow.
+Q: How many legs does a duck have? A: A duck has two legs.
+Q: What day comes after Sunday? A: The day after Sunday is Monday.
+Q: What sound does a horse make? A: A horse makes a neigh sound.
+Q: What is 2 plus 3? A: 2 plus 3 is 5.
+Q: How many legs does a bird have? A: A bird has two legs.
+Q: How many legs does a cat have? A: A cat has four legs.
+Q: What day comes after Monday? A: The day after Monday is Tuesday.
+Q: What day comes after Sunday? A: The day after Sunday is Monday.
+Q: How many legs does a duck have? A: A duck has two legs.
+Q: What is 3 plus 3? A: 3 plus 3 is 6.
+Q: What color is the snow? A: The snow is white.
+Q: What day comes after Friday? A: The day after Friday is Saturday.
+Q: What does a fish eat? A: A fish eats worms.
+Q: What does a duck eat? A: A duck eats bread.
+Q: What is 3 plus 1? A: 3 plus 1 is 4.
+Q: What sound does a cat make? A: A cat makes a meow sound.
+Q: What does a dog eat? A: A dog eats meat.
+Q: Where does a bird live? A: A bird lives in a nest.
+Q: What is the opposite of big? A: The opposite of big is small.
+Q: What is 3 plus 3? A: 3 plus 3 is 6.
+Q: What is 2 plus 3? A: 2 plus 3 is 5.
+Q: How many legs does a fish have? A: A fish has zero legs.
+Q: What is the opposite of wet? A: The opposite of wet is dry.
+Q: What sound does a dog make? A: A dog makes a bark sound.
+Q: How many legs does a bird have? A: A bird has two legs.
+Q: What does a dog eat? A: A dog eats meat.
+Q: What is the opposite of old? A: The opposite of old is young.
+Q: How many legs does a bird have? A: A bird has two legs.
+Q: How many legs does a bird have? A: A bird has two legs.
+Q: Where does a horse live? A: A horse lives in a stable.
+Q: What is the opposite of hard? A: The opposite of hard is soft.
+Q: What is the opposite of loud? A: The opposite of loud is quiet.
+Q: What does a cat eat? A: A cat eats fish.
+Q: What is the opposite of wet? A: The opposite of wet is dry.
+Q: How many legs does a cat have? A: A cat has four legs.
+Q: How many legs does a bird have? A: A bird has two legs.
+Q: How many legs does a dog have? A: A dog has four legs.
+Q: Where does a dog live? A: A dog lives in a house.
+Q: Where does a cow live? A: A cow lives in a farm.
+Q: What sound does a fish make? A: A fish makes a splash sound.
+Q: Where does a horse live? A: A horse lives in a stable.
+Q: Where does a cat live? A: A cat lives in a house.
+Q: What sound does a cat make? A: A cat makes a meow sound.
+Q: What is the opposite of happy? A: The opposite of happy is sad.
+Q: Where does a cat live? A: A cat lives in a house.
+Q: What is 1 plus 2? A: 1 plus 2 is 3.
+Q: What sound does a cow make? A: A cow makes a moo sound.
+Q: What is 2 plus 3? A: 2 plus 3 is 5.
+Q: What day comes after Monday? A: The day after Monday is Tuesday.
+Q: How many legs does a horse have? A: A horse has four legs.
+Q: What is the opposite of wet? A: The opposite of wet is dry.
+Q: What is the opposite of loud? A: The opposite of loud is quiet.
+Q: What sound does a cat make? A: A cat makes a meow sound.
+Q: What color is the sky? A: The sky is blue.
+Q: What is 2 plus 3? A: 2 plus 3 is 5.
+Q: What color is the grass? A: The grass is green.
+Q: What is the opposite of loud? A: The opposite of loud is quiet.
+Q: What sound does a horse make? A: A horse makes a neigh sound.
+Q: What is 1 plus 3? A: 1 plus 3 is 4.
+Q: Where does a cat live? A: A cat lives in a house.
+Q: What day comes after Thursday? A: The day after Thursday is Friday.
+Q: What day comes after Friday? A: The day after Friday is Saturday.
+Q: What does a cow eat? A: A cow eats grass.
+Q: What is the opposite of light? A: The opposite of light is dark.
+Q: What is the opposite of wet? A: The opposite of wet is dry.
+Q: What does a cow eat? A: A cow eats grass.
+Q: What is 2 plus 2? A: 2 plus 2 is 4.
+Q: What color is the sky? A: The sky is blue.
+Q: What sound does a cat make? A: A cat makes a meow sound.
+Q: What sound does a rabbit make? A: A rabbit makes a squeak sound.
+Q: What is the opposite of light? A: The opposite of light is dark.
+Q: What does a dog eat? A: A dog eats meat.
+Q: What is the opposite of old? A: The opposite of old is young.
+Q: Where does a bird live? A: A bird lives in a nest.
+Q: How many legs does a cow have? A: A cow has four legs.
+Q: How many legs does a fish have? A: A fish has zero legs.
+Q: What is the opposite of fast? A: The opposite of fast is slow.
+Q: What is the opposite of big? A: The opposite of big is small.
+Q: How many legs does a horse have? A: A horse has four legs.
+Q: What sound does a horse make? A: A horse makes a neigh sound.
+Q: How many legs does a rabbit have? A: A rabbit has four legs.
+Q: What sound does a dog make? A: A dog makes a bark sound.
+Q: What sound does a cat make? A: A cat makes a meow sound.
+Q: Where does a cow live? A: A cow lives in a farm.
+Q: How many legs does a horse have? A: A horse has four legs.
+Q: How many legs does a duck have? A: A duck has two legs.
+Q: What color is the sun? A: The sun is yellow.
+Q: What color is the night? A: The night is dark.
+Q: What is the opposite of hot? A: The opposite of hot is cold.
+Q: What is 3 plus 1? A: 3 plus 1 is 4.
+Q: What color is the sun? A: The sun is yellow.
+Q: How many legs does a cow have? A: A cow has four legs.
+Q: What color is the snow? A: The snow is white.
+Q: Where does a cow live? A: A cow lives in a farm.
+Q: What sound does a fish make? A: A fish makes a splash sound.
+Q: What is the opposite of fast? A: The opposite of fast is slow.
+Q: What is 1 plus 1? A: 1 plus 1 is 2.
+Q: What is 3 plus 1? A: 3 plus 1 is 4.
+Q: Where does a bird live? A: A bird lives in a nest.
+Q: What is 3 plus 2? A: 3 plus 2 is 5.
+Q: What color is the sun? A: The sun is yellow.
+Q: How many legs does a horse have? A: A horse has four legs.
+Q: What does a cat eat? A: A cat eats fish.
+Q: What day comes after Tuesday? A: The day after Tuesday is Wednesday.
+Q: What color is the sky? A: The sky is blue.
+Q: What sound does a bird make? A: A bird makes a chirp sound.
+Q: What is the opposite of fast? A: The opposite of fast is slow.
+Q: What sound does a rabbit make? A: A rabbit makes a squeak sound.
+Q: What sound does a horse make? A: A horse makes a neigh sound.
+Q: What is 1 plus 1? A: 1 plus 1 is 2.
+Q: What is 3 plus 1? A: 3 plus 1 is 4.
+Q: What day comes after Friday? A: The day after Friday is Saturday.
+Q: Where does a duck live? A: A duck lives in a pond.
+Q: What sound does a cat make? A: A cat makes a meow sound.
+Q: What color is the night? A: The night is dark.
+Q: How many legs does a cow have? A: A cow has four legs.
+Q: Where does a cat live? A: A cat lives in a house.
+Q: What color is the grass? A: The grass is green.
+Q: What color is the snow? A: The snow is white.
+Q: What does a dog eat? A: A dog eats meat.
+Q: What color is the sky? A: The sky is blue.
+Q: What is 1 plus 3? A: 1 plus 3 is 4.
+Q: What does a cow eat? A: A cow eats grass.
+Q: What is 1 plus 3? A: 1 plus 3 is 4.
+Q: What is the opposite of hot? A: The opposite of hot is cold.
+Q: What is the opposite of old? A: The opposite of old is young.
+Q: How many legs does a cat have? A: A cat has four legs.
+Q: What is the opposite of tall? A: The opposite of tall is short.
+Q: What sound does a rabbit make? A: A rabbit makes a squeak sound.
+Q: What color is the sky? A: The sky is blue.
+Q: What day comes after Sunday? A: The day after Sunday is Monday.
+Q: How many legs does a duck have? A: A duck has two legs.
+Q: What color is the snow? A: The snow is white.
+Q: What is 2 plus 1? A: 2 plus 1 is 3.
+Q: What color is the sun? A: The sun is yellow.
+Q: What does a duck eat? A: A duck eats bread.
+Q: What is 2 plus 2? A: 2 plus 2 is 4.
+Q: What is 2 plus 1? A: 2 plus 1 is 3.
+Q: What is the opposite of happy? A: The opposite of happy is sad.
+Q: What does a fish eat? A: A fish eats worms.
+Q: What is the opposite of hard? A: The opposite of hard is soft.
+Q: What is the opposite of fast? A: The opposite of fast is slow.
+Q: What day comes after Wednesday? A: The day after Wednesday is Thursday.
+Q: How many legs does a fish have? A: A fish has zero legs.
+Q: What sound does a fish make? A: A fish makes a splash sound.
+Q: What is the opposite of fast? A: The opposite of fast is slow.
+Q: How many legs does a rabbit have? A: A rabbit has four legs.
+Q: What color is the sun? A: The sun is yellow.
+Q: Where does a rabbit live? A: A rabbit lives in a burrow.
+Q: Where does a fish live? A: A fish lives in a water.
+Q: What color is the grass? A: The grass is green.
+Q: What is the opposite of hard? A: The opposite of hard is soft.
+Q: How many legs does a fish have? A: A fish has zero legs.
+Q: What is 1 plus 3? A: 1 plus 3 is 4.
+Q: Where does a dog live? A: A dog lives in a house.
+Q: What day comes after Saturday? A: The day after Saturday is Sunday.
+Q: What day comes after Wednesday? A: The day after Wednesday is Thursday.
+Q: How many legs does a cow have? A: A cow has four legs.
+Q: What does a bird eat? A: A bird eats seeds.
+Q: What is 1 plus 1? A: 1 plus 1 is 2.
+Q: What day comes after Saturday? A: The day after Saturday is Sunday.
+Q: What sound does a duck make? A: A duck makes a quack sound.
+Q: What is the opposite of big? A: The opposite of big is small.
+Q: What is the opposite of wet? A: The opposite of wet is dry.
+Q: What is 3 plus 3? A: 3 plus 3 is 6.
+Q: What does a dog eat? A: A dog eats meat.
+Q: What is 2 plus 2? A: 2 plus 2 is 4.
+Q: What does a bird eat? A: A bird eats seeds.
+Q: What is 3 plus 3? A: 3 plus 3 is 6.
+Q: How many legs does a fish have? A: A fish has zero legs.
+Q: What is 1 plus 1? A: 1 plus 1 is 2.
+Q: What sound does a dog make? A: A dog makes a bark sound.
+Q: Where does a duck live? A: A duck lives in a pond.
+Q: What color is the snow? A: The snow is white.
+Q: What is the opposite of light? A: The opposite of light is dark.
+Q: What sound does a cow make? A: A cow makes a moo sound.
+Q: Where does a cow live? A: A cow lives in a farm.
+Q: How many legs does a duck have? A: A duck has two legs.
+Q: How many legs does a dog have? A: A dog has four legs.
+Q: What sound does a cat make? A: A cat makes a meow sound.
+Q: What is 1 plus 2? A: 1 plus 2 is 3.
+Q: Where does a fish live? A: A fish lives in a water.
+Q: What is 1 plus 3? A: 1 plus 3 is 4.
+Q: What color is the snow? A: The snow is white.
+Q: Where does a horse live? A: A horse lives in a stable.
+Q: What sound does a bird make? A: A bird makes a chirp sound.
+Q: What is 2 plus 3? A: 2 plus 3 is 5.
+Q: How many legs does a cat have? A: A cat has four legs.
+Q: What day comes after Thursday? A: The day after Thursday is Friday.
+Q: Where does a duck live? A: A duck lives in a pond.
+Q: What color is the snow? A: The snow is white.
+Q: What is the opposite of hot? A: The opposite of hot is cold.
+Q: What day comes after Friday? A: The day after Friday is Saturday.
+Q: What is 3 plus 2? A: 3 plus 2 is 5.
+Q: What day comes after Wednesday? A: The day after Wednesday is Thursday.
+Q: What day comes after Wednesday? A: The day after Wednesday is Thursday.
+Q: Where does a horse live? A: A horse lives in a stable.
+Q: What is 1 plus 2? A: 1 plus 2 is 3.
+Q: What is 2 plus 1? A: 2 plus 1 is 3.
+Q: What is 1 plus 2? A: 1 plus 2 is 3.
+Q: What day comes after Sunday? A: The day after Sunday is Monday.
+Q: What color is the sun? A: The sun is yellow.
+Q: What is 2 plus 1? A: 2 plus 1 is 3.
+Q: What does a dog eat? A: A dog eats meat.
+Q: What day comes after Monday? A: The day after Monday is Tuesday.
+Q: What day comes after Saturday? A: The day after Saturday is Sunday.
+Q: What is the opposite of tall? A: The opposite of tall is short.
+Q: What color is the sun? A: The sun is yellow.
+Q: What is 1 plus 1? A: 1 plus 1 is 2.
+Q: What does a cat eat? A: A cat eats fish.
+Q: What is 3 plus 1? A: 3 plus 1 is 4.
+Q: What is 2 plus 3? A: 2 plus 3 is 5.
+Q: What is the opposite of happy? A: The opposite of happy is sad.
+Q: How many legs does a cat have? A: A cat has four legs.
+Q: What sound does a duck make? A: A duck makes a quack sound.
+Q: How many legs does a horse have? A: A horse has four legs.
+Q: What sound does a rabbit make? A: A rabbit makes a squeak sound.
+Q: What does a dog eat? A: A dog eats meat.
+Q: Where does a rabbit live? A: A rabbit lives in a burrow.
+Q: What is the opposite of happy? A: The opposite of happy is sad.
+Q: What day comes after Saturday? A: The day after Saturday is Sunday.
+Q: What color is the night? A: The night is dark.
+Q: What color is the sky? A: The sky is blue.
+Q: What color is the sun? A: The sun is yellow.
+Q: How many legs does a dog have? A: A dog has four legs.
+Q: What is the opposite of happy? A: The opposite of happy is sad.
+Q: How many legs does a rabbit have? A: A rabbit has four legs.
+Q: How many legs does a bird have? A: A bird has two legs.
+Q: Where does a horse live? A: A horse lives in a stable.
+Q: How many legs does a duck have? A: A duck has two legs.
+Q: What is 1 plus 2? A: 1 plus 2 is 3.
+Q: What does a duck eat? A: A duck eats bread.
+Q: What sound does a duck make? A: A duck makes a quack sound.
+Q: What is 2 plus 1? A: 2 plus 1 is 3.
+Q: What does a dog eat? A: A dog eats meat.
+Q: What day comes after Wednesday? A: The day after Wednesday is Thursday.
+Q: What sound does a rabbit make? A: A rabbit makes a squeak sound.
+Q: How many legs does a horse have? A: A horse has four legs.
+Q: What is the opposite of fast? A: The opposite of fast is slow.
+Q: What is 1 plus 3? A: 1 plus 3 is 4.

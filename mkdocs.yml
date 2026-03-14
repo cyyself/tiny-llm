@@ -1,0 +1,35 @@
+site_name: "Building an LLM from Scratch"
+site_description: "A hands-on tutorial for CS undergraduates to build a tiny Large Language Model from scratch"
+site_author: "LLM Tutorial Team"
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: indigo
+  features:
+    - content.code.copy
+    - navigation.sections
+    - navigation.expand
+
+nav:
+  - Home: index.md
+  - 1. Introduction to LLMs: 01_introduction.md
+  - 2. Data Collection & Preprocessing: 02_data_preprocessing.md
+  - 3. Model Architecture: 03_model_architecture.md
+  - 4. Training the Model: 04_training.md
+  - 5. Evaluation: 05_evaluation.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - admonition
+  - pymdownx.details
+  - toc:
+      permalink: true
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
